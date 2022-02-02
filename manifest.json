@@ -9,6 +9,9 @@
  "path": "rules.json"
  }]
  },
+ "background": {
+    "scripts": ["background.js"]
+  },
  "permissions": [
  "declarativeNetRequest"
 ],
